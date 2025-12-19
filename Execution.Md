@@ -20,7 +20,7 @@ Two-Tier Flask Application using Docker & Docker Compose
 
 ## Step 1: Clone the Repository
 ```bash
-git clone https://github.com/LondheShubham153/two-tier-flask-app.git
+git clone https://github.com/harshada137/sudo-speak.git
 cd two-tier-flask-app
 ````
 
@@ -145,3 +145,4 @@ If you want next, I can:
 
 Just tell me 👍
 ```
+
