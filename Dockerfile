@@ -26,3 +26,4 @@ EXPOSE 5000
 # Specify the command to run your application
 CMD ["python", "app.py"]
 
+
